@@ -1,0 +1,8 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=2]
+
+[sub_resource type="StreamTexture" id=1]
+load_path = "res://.import/rebus.png-bd17dad23c11bbd51f12888089d9ff16.stex"
+
+[resource]
+atlas = SubResource( 1 )
+region = Rect2( 0, 0, 32, 32 )
